@@ -1,0 +1,3 @@
+- 👋 Hi, I’m rasulbek
+- 👀 I’m interested in vs code
+- 🌱 I’m currently learning html css JS
